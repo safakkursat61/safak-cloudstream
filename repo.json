@@ -1,8 +1,8 @@
 {
-    "name": "Cloudstream providers repository",
-    "description": "Cloudstream extension Repository",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/recloudstream/extensions/builds/plugins.json"
-    ]
+  "name": "Şafak CloudStream",
+  "description": "Şafak'ın CloudStream eklenti deposu",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/safakkursat61/Safak-cloudstream/builds/plugins.json"
+  ]
 }
